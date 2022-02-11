@@ -1,3 +1,5 @@
+<h3 align=center>A tweaked version of the PaperMod theme for Hugo with a responsive menu button and other minor changes.</a></h3>
+<p align="center">-------------------------------------------</p>
 <h1 align=center>Hugo PaperMod | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Demo</a></h1>
 
 <h4 align=center>☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive</h4>
